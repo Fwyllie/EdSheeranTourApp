@@ -281,3 +281,15 @@ footer input{
   font-family: chunkFive;
   letter-spacing: 3px;
 }
+/*******************Videos*****************/
+.video{
+  background: linear-gradient(to bottom right, #ff0000, #290a59);
+  text-align: center;
+  color: white;
+}
+.video video{
+  width: 100%;
+}
+.videoDiv{
+  margin-top: 50px;
+}
